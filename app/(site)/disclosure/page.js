@@ -1,0 +1,2 @@
+export const metadata = { title: 'Affiliate Disclosure' }
+export default function D() { return <article className="read"><h1>Affiliate Disclosure</h1><p>Some links on HIGHLIGHT are affiliate links. If you click one and make a purchase, HIGHLIGHT may earn a commission at no extra cost to you.</p><p>We only recommend products we consider genuinely useful. Prices shown are entered by us and may change, so always check the seller's page for the current price.</p></article> }
